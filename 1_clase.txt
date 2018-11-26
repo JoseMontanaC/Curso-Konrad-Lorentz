@@ -1,0 +1,11 @@
+¿Como medir correlaciones en el caso más general?
+
+- Buscar "modelos autorregresivos espaciales" https://es.wikipedia.org/wiki/Modelo_autorregresivo
+
+- Procesos intrinsecamente estacionarios
+Variograma para lograr caracterizar correlaciones espaciales entre 2 eventos
+Variograma de genton(1998)
+
+- Tipos de covarianzas:
+Matern Covariance
+Exponencial se consigue con nu=1/2 en la familia matern
