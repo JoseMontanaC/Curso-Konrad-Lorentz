@@ -9,3 +9,8 @@ Variograma de genton(1998)
 - Tipos de covarianzas:
 Matern Covariance
 Exponencial se consigue con nu=1/2 en la familia matern
+Revisar la regla de Strunges para consytruir el histograma
+
+statistical methods for spatial data analysis schabenberger
+
+hierarchical modeling and analysis for spatial data
