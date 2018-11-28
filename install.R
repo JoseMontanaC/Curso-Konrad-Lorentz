@@ -4,6 +4,6 @@ install.packages("httr")
 install.packages("shinydashboard")
 install.packages('leaflet')
 install.packages('geoR')
-install.packages('spatialPack')
+install.packages('SpatialPack')
 
 
