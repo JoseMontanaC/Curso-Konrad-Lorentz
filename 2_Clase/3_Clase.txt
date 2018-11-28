@@ -1,0 +1,25 @@
+mirar random fields que está implementado en un paquete de R
+
+test de hipotesis
+
+f(x), theta, que pertenencen a H= (H_0) U (H_1)
+
+x_1, ... x_n iid(independientes igualmente distribuidas) f_{theta}(x)
+
+1) H_0 : theta que pertence a (H_0) vs H_1: theta pertenece a (H_1)
+x_1 .. x_n iid N(mu,sigma)
+
+entonces sea por ejemplo h_0 mu=100 vs H_1:mu distinto de 100
+
+2) alhpa = significancia de error tipo I
+alpha = 0.01, 0.05, 0.1 
+
+3)
+
+T (estadistica de prueba) <--H_o---> t_(n-1) una t student con n-1 grados de libertad ( esto no depende del parametro mu) rechazar H_0 si T_0 pertenece a R una región de rechazo
+T_0 es el valor observado
+4) regla de desición 
+a) región de rechazo 
+R= ]-inf,t_(alpha/2 ,n-1)] U [t_(1-alpha/2 ,n-1),inf)
+b) valor P
+se rechaza H_0 si p<alpha y se escoge el T_0 y se mira el area de las colas de la distribución para un T_0 dado.
