@@ -23,3 +23,21 @@ a) región de rechazo
 R= ]-inf,t_(alpha/2 ,n-1)] U [t_(1-alpha/2 ,n-1),inf)
 b) valor P
 se rechaza H_0 si p<alpha y se escoge el T_0 y se mira el area de las colas de la distribución para un T_0 dado.
+
+----------------------- Forma cuadratica----------
+Q=X^TAX ---> con X vector aleatorio con media mu y varianza SIGMA y A es simetrica
+1) E(X^TAX) = tr(ASigma)+mu^TAmu
+2) V(X^TAX) = 2 tr(aSigmaAsigma) + 4mu^TASIgmaAmu
+3)X^TAX = tr(X^TAX)
+4)tr(X^TAX) = tr(AXX^T)
+5)E(AX) = AE(X)
+6) XX^T = Sigma + mumu^T
+
+-----------------------------------------------------
+Indice de moran
+
+Ver spatialPack de R
+
+
+----------------------------------------------------------
+Revisar structural break points
