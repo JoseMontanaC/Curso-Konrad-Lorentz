@@ -5,7 +5,6 @@ Jupyter+R: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v
 RStudio: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/JoseMontanaC/Curso-Konrad-Lorentz/master?urlpath=rstudio)
 
 
-
 usar este comando en la terminal para poder subir cosas
 
 ```bash
