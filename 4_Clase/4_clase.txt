@@ -1,0 +1,6 @@
+Tamaño muestral efectivo
+
+Revisar la información de fisher y ver que es el valor esperado de la segunda derivada de la verosimilitud ( esto tiene que ver con la información redundante) y sirve para sacar el tamaño muestral efectivo
+
+
+
