@@ -1,0 +1,5 @@
+Gardiner, C. W. (1986). Handbook of stochastic methods for physics, chemistry and the natural sciences. Applied Optics, 25, 3145.
+
+Robert H. Shumway, David S. Stoﬀer - Time Series Analysis and its Applications with R Examples (2017, Springer)
+
+
