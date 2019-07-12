@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
  
 # Prepare data
-N = 100 # step
+N = 50 # step
 lambdas = [1, 2, 5]
 X_T = [np.random.poisson(lam, size=N) for lam in lambdas]
 S = [[np.sum(X[0:i]) for i in xrange(N)] for X in X_T]
@@ -15,3 +15,6 @@ plt.title("Poisson Process", fontdict={'fontname': 'Times New Roman', 'fontsize'
 plt.ylim(0)
 plt.xlim(0)
 plt.show()
+
+
+
