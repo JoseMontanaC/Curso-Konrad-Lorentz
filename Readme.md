@@ -10,3 +10,19 @@ usar este comando en la terminal para poder subir cosas
 ```bash
 git config credential.username (username)
 ```
+
+
+Repository:
+
+[repo](https://github.com/rstudio/Intro/tree/master/slides)
+
+Book to check:
+[book to check](https://r4ds.had.co.nz/)
+
+
+Julia info:
+
+[Julia Stocastic process](http://docs.juliadiffeq.org/latest/index.html)
+
+Correlated data:
+Durbin, J., & Koopman, S. J. (2012). Time series analysis by state space methods (Vol. 38). Oxford University Press.
